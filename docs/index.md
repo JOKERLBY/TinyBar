@@ -1,4 +1,4 @@
 #TINYBAR
 ---
 ##BOOTLOADER
-**CHECK** [How to install a bootloader in TINYBAR?](/TinyBar/Bootloader)
+**CHECK** [How to install a bootloader](VladimirDuan.github.io/TinyBar/Bootloader) in TinyBar?
